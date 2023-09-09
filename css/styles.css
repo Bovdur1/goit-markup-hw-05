@@ -666,6 +666,7 @@ button {
 }
 
 .feedback-form-textarea {
+    display: block;
     border-radius: 4px;
     border: 1px solid rgba(46, 47, 66, 0.40);
     height: 120px;
